@@ -7,7 +7,7 @@ The text file format is seen below, a line must start with a Tag Name and must b
 
 	TAG_NAME | /regex pattern/ | string search pattern
 
-Attached in this project is a sample text file to show you what the format would look like.
+Attached in this project is a sample text file with Heroku taggings that you can run to get Heroku Taggings for your log.
 
 Setup
 -----
